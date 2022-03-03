@@ -1,0 +1,14 @@
+header{
+    height: 12vh;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    align-content: center;
+}
+
+header h1{
+    margin-left: 1vw;
+    font-family: Arial;
+    color: #a5a5a5;
+}
+

@@ -1,0 +1,41 @@
+.active {
+    background-color:red;
+}
+
+#logout-form{
+    position: absolute;
+    top:1%;
+    left:80%;
+}
+
+
+#label-logout{
+    margin-right: 5px;
+}
+
+#add-btn{
+    position: absolute;
+    top:1%;
+    left:15%;
+}
+
+.react-search-field-input {
+    width: 400px;
+}
+
+.pagination {
+    margin-left: 40%;
+}
+
+.pagination li {
+    margin-left: 5px;
+    border: 1px solid black;
+    border-radius: 1pm;
+    width: 40px;    
+    
+}
+
+#page-size {
+    position: relative;
+    margin-left: 95%;
+}

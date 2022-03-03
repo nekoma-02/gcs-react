@@ -1,0 +1,8 @@
+body {
+    margin:0;
+}
+
+#root{
+    background-color: rgba(211, 211, 211, 0.37);
+    height: 75vh;
+}

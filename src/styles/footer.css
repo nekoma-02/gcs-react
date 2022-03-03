@@ -1,0 +1,13 @@
+footer{
+    height: 13vh;
+    width: 100%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    background-color: white;
+}
+
+footer h2{
+    font-family: Arial;
+    color: #6e6d6d;
+}
